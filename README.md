@@ -8,8 +8,12 @@
 
 <h2>Certifications</h2> 
 
-- [Security+ Comptia](https://www.credly.com/badges/4f8d6e42-4d99-4060-8f68-7d207687f46b/linked_in)
-
+- [Security+ CompTIA](https://www.credly.com/badges/4f8d6e42-4d99-4060-8f68-7d207687f46b/linked_in)
+- [Pentest+ CompTIA](https://www.credly.com/earner/earned/badge/64a6a5bf-56b4-4c2f-99bf-6700e0a2eb79)
+- [CompTIA Network Vulnerability Assessment Professional – CNVP Stackable Certification](https://www.credly.com/earner/earned/badge/10b0d352-eaf7-4eca-a242-a831429d0cd1)
+- [Microsoft Certified: Security, Compliance, and Identity Fundamentals](https://www.credly.com/earner/earned/badge/b0667033-6efd-49cb-9326-8e93bf36fcb6)
+  
+  
 <h2>📺 Popular YouTube Videos</h2>
 
 - [How to create an Azure Active Directory Home Lab](https://www.youtube.com/watch?v=a83ASGn_V_s)
