@@ -28,7 +28,7 @@
 
 
 [youtube]: https://www.youtube.com/c/
-[linkedin]: https://www.linkedin.com/in/jon-dewalt
+[linkedin]: https://www.linkedin.com/in/jon-dewalt-5541a1219/
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
