@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jon! I am a passionate about all things Cyber Security <br/><a href="https://github.com/jdewalt88">Cybersecuirity Anaylst</a>, <a href="https://www.linkedin.com/in/jon-dewalt-mmis-g-5541a1219/">Cybersecurity Professional</a>, </a></h1>
+<h1>Hi, I'm Jon! I am passionate about all things Cyber Security related. I am always up to task to learn and to also help others learn about IT as well. As we all know that the Cybersecuirity feild is ever evolving! <br/><a href="https://github.com/jdewalt88">Cybersecuirity Anaylst</a>, <a href="https://www.linkedin.com/in/jon-dewalt-mmis-g-5541a1219/">Cybersecurity Professional</a>, </a></h1>
 
 <h2>👨‍💻 Cyber Secuirty Projects:</h2>
 
