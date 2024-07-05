@@ -8,6 +8,6 @@
 
 <h2> 🤳 Connect with me:</h2>
 
- -[linkedin]: https://www.linkedin.com/in/jon-dewalt-mmis-g-5541a1219/</a>
+ -[linkedin]: [https://www.linkedin.com/in/jon-dewalt-mmis-g-5541a1219/](https://www.linkedin.com/in/jon-dewalt/)</a>
 
 
